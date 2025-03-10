@@ -1,3 +1,3 @@
 # sample-child
 
-update Child
+update Child 2
